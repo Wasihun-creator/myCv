@@ -1,0 +1,72 @@
+header {
+	margin-bottom: 10px;
+	background-color: rgba(119, 90, 90, 0);
+	position: fixed;
+	top: 0;
+	margin-left: 5%;
+	
+
+}
+
+section {
+	font-family: sans-serif;
+	padding: 5px 20px;
+	margin-top: 60px;
+}
+
+article{
+	font-size: 15px;
+	text-align: justify;
+	line-height: 20px;
+}
+
+.title {
+	font-size: 23px;
+	font-weight: 500;
+	text-transform: uppercase;
+	
+}
+
+.date {
+	font-style: italic;
+	font-size: 15px;
+	text-transform: uppercase;
+}	
+
+nav > ul > li{
+	display: inline-flex;
+	padding: 10px 20px;
+	font-size: 20px;
+	
+
+}
+
+nav > ul > li > a {
+	text-decoration: none;
+
+}
+
+nav > ul > li > a:link{
+	background-color: none;
+	color: black;
+}
+
+nav > ul > li > a:visited{
+	background-color: none;
+	color: crimson;
+	background-position: cover;
+}
+
+nav > ul > li > a:hover {
+	background-color: white;
+	color: blue;
+
+
+}
+
+nav > ul > li > a:active{
+	background-color: white;
+	color: red;
+}
+ 
+
