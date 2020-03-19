@@ -1,0 +1,142 @@
+.flag1{
+    border-top:  solid blue 80px;
+    border-bottom: solid red 80px;
+    padding-bottom: 80px;
+    background-color: white;
+    width: 240px;
+    float: right;
+    margin: 5px;
+    
+    
+}
+
+.flag2{
+    border-top:  solid red 80px;
+    border-bottom: solid black 80px;
+    padding-bottom: 80px;
+    background-color: white;
+    width: 240px;
+    float: left;
+    margin: 5px;
+
+}
+
+.flag3{
+    border-top:  solid white 80px;
+    border-bottom: solid red 80px;
+    padding-bottom: 80px;
+    background-color: blue;
+    width: 240px;
+    float: right;
+    margin: 5px;
+
+}
+
+.flag4{
+    border-top:  solid blue 80px;
+    border-bottom: solid blue 80px;
+    padding-bottom: 80px;
+    background-color: white;
+    width: 240px;
+    float: left;
+    margin: 5px;
+
+}
+
+.flag5{
+    border-top:  solid red 80px;
+    border-bottom: solid red 80px;
+    padding-bottom: 80px;
+    background-color: white;
+    width: 240px;
+    float: right;
+    margin: 5px;
+
+}
+
+.flag6{
+    border-top:  solid yellow 80px;
+    border-bottom: solid red 80px;
+    padding-bottom: 80px;
+    background-color: purple;
+    width: 240px;
+    float: left;
+    margin: 5px;
+
+}
+
+.flag7{
+    border-top:  solid dodgerblue 100px;
+    border-bottom: solid dodgerblue 100px;
+    padding-bottom: 40px;
+    background-color: black;
+    width: 240px;
+    float: right;
+    margin: 5px;
+
+}
+
+.flag8{
+    border-right:  solid red 80px;
+    border-left: solid blue 80px;
+    background-color: white;
+    width: 80px;
+    float: left;
+    margin: 5px;
+    height: 240px;
+
+}
+
+.flag9{
+    border-right:  solid red 80px;
+    border-left: solid green 80px;
+    background-color: white;
+    width: 80px;
+    float: right;
+    margin: 5px;
+    height: 240px;
+
+}
+
+.flag10{
+    border-right:  solid red 80px;
+    border-left: solid red 80px;
+    background-color: white;
+    width: 80px;
+    float: left;
+    margin: 5px;
+    height: 240px;
+
+}
+
+.flag11{
+    border-right:  solid green 80px;
+    border-left: solid green 80px;
+    background-color: white;
+    width: 80px;
+    float: right;
+    margin: 5px;
+    height: 240px;
+
+}
+
+.flag12{
+    border-top:  solid green 80px;
+    border-bottom: solid blue 80px;
+    padding-bottom: 80px;
+    background-color: white;
+    width: 240px;
+    float: left;
+    margin: 5px;
+
+}
+div a {
+    text-decoration: none;
+    display: inline-flex;
+}
+
+div a:hover{
+    background-color: white;
+    color: blue;
+}
+
